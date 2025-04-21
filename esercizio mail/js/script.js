@@ -1,5 +1,5 @@
 const mailUser = prompt("Inserisci la mail per l'accesso");
-console.log(mailUser);
+console.log("La mail dell'utente è" + mailUser);
 
 const mailList = ["utente@gmail.com", "utente1@gmail.com", "utente2@gmail.com"];
 
